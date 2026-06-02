@@ -1,6 +1,6 @@
 # Python-Basics
 My first Python projects learning data science
-# 👋 Hi, I'm [MADHURIMA DUTTA]
+# 👋 Hi, I'm MADHURIMA DUTTA
 
 ### Biomedical Student → Data Scientist (in training)
 
