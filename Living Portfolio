@@ -38,9 +38,13 @@ My first Python projects learning data science
 
 | Project | Skills | Industry Relevance |
 |---------|--------|---------------------|
-| [Python Basics] | Variables, loops, functions | Foundation for ANY data role |
-| Coming soon: Data cleaning | Pandas, NumPy | Banking, healthcare, tech |
-| Coming soon: Visualization | Matplotlib, Seaborn | Universal skill |
+| [Patient Health Analyzer](bmi_health_analyzer.py) | Functions, conditionals, health metrics | Healthcare |
+| [Heart Rate Monitor](heart_rate_monitor.py) | Clinical data, medical logic | Clinical monitoring |
+| [Expense Tracker](week2_file_io/expense_tracker.py) | File I/O, data analysis | Finance, budgeting |
+| [Contact Manager](week2_file_io/contact_manager.py) | CRUD operations, file storage | Data management |
+| [Personal Diary](week2_file_io/diary_app.py) | File append, timestamps | Logging |
+| [Temperature Converter](temperature_converter.py) | Functions, multiple parameters | Universal |
+| [BMI Calculator](bmi_calculator.py) | Variables, math, conditionals | Healthcare |
 
 ---
 
