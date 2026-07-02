@@ -1,53 +1,134 @@
-# Python-Basics
-My first Python projects learning data science
-# 👋 Hi, I'm MADHURIMA DUTTA
+# 🏥 Python-Basics
 
-### Biomedical Student → Data Scientist (in training)
-
-🎓 **Education:** BSc Biomedical Sciences | Starting MSc Data Science [2026]
-
-📍 **Location:** [Manchester, United Kingdom]
-
-🔧 **Building my data science toolkit:**
-- Python (basics → pandas → scikit-learn)
-- Statistical analysis
-- Data cleaning & visualization
-- Machine learning fundamentals
-
-💡 **What makes me different:**
-
-| My Healthcare Background | My Data Science Skills |
-|-------------------------|------------------------|
-| Understanding complex systems | Structured problem-solving |
-| Working with imperfect data | Python & analytics |
-| Domain expertise in biology | Statistical thinking |
-| Research methodology | Reproducible workflows |
-
-**Together = I can work in ANY industry that values rigorous, analytical thinking.**
-
-🌍 **Sectors I'm open to:**
-- 🏥 Healthcare & Pharma (domain advantage)
-- 💰 Banking & Finance (high standards, data-rich)
-- 📱 Tech & Startups (fast-paced, innovative)
-- 📊 Consulting & Analytics (client-focused)
-- 🏭 Anywhere data drives decisions
+### From Biomedical Science to Data Science — A Complete Python Portfolio
 
 ---
 
-### 📊 My Portfolio (Growing weekly)
+## 👋 Hi, I'm MADHURIMA DUTTA
 
-| Project | Skills | Industry Relevance |
-|---------|--------|---------------------|
-| [Patient Health Analyzer](bmi_health_analyzer.py) | Functions, conditionals, health metrics | Healthcare |
-| [Heart Rate Monitor](heart_rate_monitor.py) | Clinical data, medical logic | Clinical monitoring |
-| [Expense Tracker](week2_file_io/expense_tracker.py) | File I/O, data analysis | Finance, budgeting |
-| [Contact Manager](week2_file_io/contact_manager.py) | CRUD operations, file storage | Data management |
-| [Personal Diary](week2_file_io/diary_app.py) | File append, timestamps | Logging |
-| [Temperature Converter](temperature_converter.py) | Functions, multiple parameters | Universal |
-| [BMI Calculator](bmi_calculator.py) | Variables, math, conditionals | Healthcare |
+### Biomedical Scientist → Data Scientist (in training)
+
+🎓 **Education:** BSc Biomedical Sciences | Starting MSc Data Analytics @ Manchester Metropolitan University (2026)
+
+📍 **Location:** Manchester, United Kingdom
 
 ---
 
-### 🎯 My 2026 Goal
+## 🧬 My Story
 
-> Build demonstrable data science skills. Complete 10+ portfolio projects. Graduate ready for roles in healthcare analytics, financial data, or business intelligence. **Domain knowledge + technical skills = I can go anywhere.**
+I'm a Biomedical Scientist with **2+ years of NHS frontline experience** who fell in love with data. I'm currently building my data science skills from the ground up — one project at a time.
+
+**What makes me different?**
+- I understand **healthcare data** because I've lived it.
+- I bring **domain expertise + technical skills**.
+- I solve problems like a scientist and think like a data analyst.
+
+> *“I don't just write code. I translate clinical complexity into data-driven solutions.”*
+
+---
+
+## 🛠️ Skills I've Built
+
+| Category | Skills |
+|----------|--------|
+| **Programming** | Python (advanced basics), NumPy, Pandas, Matplotlib |
+| **Data Handling** | File I/O, Data Cleaning, Data Transformation |
+| **Visualization** | Matplotlib, Seaborn |
+| **Tools** | VS Code, Git, GitHub, Jupyter |
+| **Domain** | Biomedical Sciences, Clinical Research, NHS Frontline Experience |
+
+---
+
+## 📁 My Portfolio (Growing Weekly)
+
+| Project | Description | Skills |
+|---------|-------------|--------|
+| [**Patient Health Dashboard**](patient_dashboard/patient_dashboard.py) | Complete healthcare analysis with visualizations | Pandas, Matplotlib, NumPy |
+| [**BMI Health Analyzer**](bmi_health_analyzer.py) | BMI, BMR, ideal weight, health risk assessment | Functions, Conditionals, Health Metrics |
+| [**Heart Rate Monitor**](heart_rate_monitor.py) | Clinical heart rate analysis with medical logic | Clinical Logic, Conditional Logic |
+| [**Healthcare Data Analysis**](healthcare_analysis.py) | End-to-end analysis of patient data | Pandas, Grouping, Statistics |
+| [**Temperature Converter**](temperature_converter.py) | Professional conversion between C, F, K | Functions, Parameters, Validation |
+| [**Shopping List App**](shopping_list_app.py) | Interactive list management with file storage | Lists, Loops, File I/O |
+| [**Login Checker**](login_checker.py) | Authentication system with attempt limiting | Conditionals, Error Handling |
+| [**Expense Tracker**](week2_file_io/expense_tracker.py) | Personal finance with category analysis | File I/O, Data Aggregation |
+| [**Contact Manager**](week2_file_io/contact_manager.py) | CRUD operations with file storage | File I/O, CRUD |
+| [**Personal Diary**](week2_file_io/diary_app.py) | Daily entries with timestamp and search | File Append, Timestamps |
+
+---
+
+## 📊 My Learning Journey
+
+| Week | Topic | Status |
+|------|-------|--------|
+| Week 1 | Python Basics (variables, loops, functions, dicts) | ✅ Complete |
+| Week 2 | File I/O, Error Handling, List Comprehensions | ✅ Complete |
+| Week 3 | NumPy & Pandas | ✅ Complete |
+| Week 4 | Data Visualization (Matplotlib, Seaborn) | 🔄 In Progress |
+| Week 5-8 | SQL, Machine Learning, Portfolio Projects | 📅 Planned |
+
+---
+
+## 🎯 My 2026 Goals
+
+- ✅ Build 10+ portfolio projects
+- ✅ Master Pandas and NumPy
+- 🔄 Learn SQL and Machine Learning
+- 🔄 Complete my MSc in Data Analytics
+- 🔄 Land a sponsored data science role in Pharma, Finance, or Tech
+
+**Domain knowledge + technical skills = I can go anywhere.**
+
+---
+
+## 🌍 Sectors I'm Targeting
+
+| Sector | Why |
+|--------|-----|
+| 🏥 **Healthcare & Pharma** | My domain advantage |
+| 💰 **Banking & Finance** | Data-rich, high standards |
+| 📱 **Tech & Startups** | Fast-paced, innovative |
+| 📊 **Consulting** | Client-focused problem solving |
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-dutta-4b4b1a215/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madss28)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurimadutta@example.com)
+
+---
+
+## ⭐ Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madss28&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madss28&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madss28&hide_border=true)
+
+---
+
+## 📈 What's Next?
+
+I'm currently building:
+- 📊 Healthcare dashboards with Matplotlib and Seaborn
+- 🗄️ SQL database projects
+- 🤖 Machine learning models with scikit-learn
+- 🏥 Complete end-to-end healthcare analytics projects
+
+---
+
+## 🏆 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Madss28&theme=minimal)
+
+---
+
+### *"From NHS frontline to data science — one line of code at a time."*
+
+---
+
+*Last updated: July 2026*
+
+---
+
+> ⭐ If you find this portfolio helpful, please give it a star on GitHub!
