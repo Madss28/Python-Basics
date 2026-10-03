@@ -1,105 +1,107 @@
 # 🏥 Python-Basics
 
-### From Biomedical Science to Data Science — A Complete Python Portfolio
+### From Biomedical Science to Data Science: my Python and data analysis portfolio
 
 ---
 
-## 👋 Hi, I'm MADHURIMA DUTTA
+## 👋 Hi, I'm Madhurima Dutta
 
-### Biomedical Scientist → Data Scientist (in training)
+I'm an MSc Data Science student and a Biomedical Science graduate, teaching myself to work with data one project at a time.
 
-🎓 **Education:** BSc Biomedical Sciences | Starting MSc Data Analytics @ Manchester Metropolitan University (2026)
+🎓 **Education:** BSc (Hons) Biomedical Science, UCLan | MSc Data Science, Manchester Metropolitan University (2026 to 2027)
+
+🏥 **Work:** Healthcare Assistant, East Lancashire Hospitals NHS Trust (2+ years in the NHS)
 
 📍 **Location:** Manchester, United Kingdom
 
 ---
 
-## 🧬 My Story
+## 🧬 My story
 
-I'm a Biomedical Scientist with **2+ years of NHS frontline experience** who fell in love with data. I'm currently building my data science skills from the ground up — one project at a time.
+I've spent over two years working in the NHS, handling patient information every day. That made me curious about what the data behind it could show, so I started learning Python. This repository is where that learning lives. The early scripts are simple on purpose, and the projects get more involved as you go.
 
-**What makes me different?**
-- I understand **healthcare data** because I've lived it.
-- I bring **domain expertise + technical skills**.
-- I solve problems like a scientist and think like a data analyst.
+**What I bring**
 
-> *“I don't just write code. I translate clinical complexity into data-driven solutions.”*
+- A scientific background: lab research, quantitative data and statistical interpretation from my BSc dissertation
+- Real familiarity with how healthcare information is recorded and why accuracy matters
+- Experience communicating and working in busy multidisciplinary teams
 
 ---
 
-## 🛠️ Skills I've Built
+## 🛠️ Skills
 
 | Category | Skills |
 |----------|--------|
-| **Programming** | Python (advanced basics), NumPy, Pandas, Matplotlib |
-| **Data Handling** | File I/O, Data Cleaning, Data Transformation |
-| **Visualization** | Matplotlib, Seaborn |
+| **Programming** | Python, NumPy, Pandas, Matplotlib |
+| **Data handling** | File I/O, data cleaning, data transformation |
+| **Visualisation** | Matplotlib, Seaborn |
 | **Tools** | VS Code, Git, GitHub, Jupyter |
-| **Domain** | Biomedical Sciences, Clinical Research, NHS Frontline Experience |
+| **Also learning** | SQL, Power BI and scikit-learn, alongside my MSc |
+| **Background** | Biomedical Science, laboratory research, NHS experience |
 
 ---
 
-## 📁 My Portfolio (Growing Weekly)
+## 📁 Portfolio
+
+Projects I'm proudest of are at the top. The smaller ones were written to practise one idea at a time, and the health-related ones are learning exercises, not clinical tools.
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [**Patient Health Dashboard**](patient_dashboard/patient_dashboard.py) | Complete healthcare analysis with visualizations | Pandas, Matplotlib, NumPy |
-| [**BMI Health Analyzer**](bmi_health_analyzer.py) | BMI, BMR, ideal weight, health risk assessment | Functions, Conditionals, Health Metrics |
-| [**Heart Rate Monitor**](heart_rate_monitor.py) | Clinical heart rate analysis with medical logic | Clinical Logic, Conditional Logic |
-| [**Healthcare Data Analysis**](healthcare_analysis.py) | End-to-end analysis of patient data | Pandas, Grouping, Statistics |
-| [**Temperature Converter**](temperature_converter.py) | Professional conversion between C, F, K | Functions, Parameters, Validation |
-| [**Shopping List App**](shopping_list_app.py) | Interactive list management with file storage | Lists, Loops, File I/O |
-| [**Login Checker**](login_checker.py) | Authentication system with attempt limiting | Conditionals, Error Handling |
-| [**Expense Tracker**](week2_file_io/expense_tracker.py) | Personal finance with category analysis | File I/O, Data Aggregation |
-| [**Contact Manager**](week2_file_io/contact_manager.py) | CRUD operations with file storage | File I/O, CRUD |
-| [**Personal Diary**](week2_file_io/diary_app.py) | Daily entries with timestamp and search | File Append, Timestamps |
+| [**Patient Health Dashboard**](patient_dashboard/patient_dashboard.py) | Analyses a patient dataset and visualises patterns across health indicators | Pandas, Matplotlib, NumPy |
+| [**Healthcare Data Analysis**](healthcare_analysis.py) | Explores patient data with grouping, aggregation and descriptive statistics | Pandas, grouping, statistics |
+| [**Expense Tracker**](week2_file_io/expense_tracker.py) | Records spending, saves it to file and summarises it by category | File I/O, data aggregation |
+| [**BMI Health Analyzer**](bmi_health_analyzer.py) | Calculates BMI, BMR and ideal weight, with a basic health-risk category | Functions, conditionals |
+| [**Heart Rate Monitor**](heart_rate_monitor.py) | Classifies heart rate readings using conditional logic | Conditional logic |
+| [**Temperature Converter**](temperature_converter.py) | Converts between Celsius, Fahrenheit and Kelvin | Functions, parameters, validation |
+| [**Shopping List App**](shopping_list_app.py) | Interactive list management with file storage | Lists, loops, File I/O |
+| [**Login Checker**](login_checker.py) | Simple login check that limits the number of attempts | Conditionals, error handling |
+| [**Contact Manager**](week2_file_io/contact_manager.py) | Create, read, update and delete contacts, stored in a file | File I/O, CRUD |
+| [**Personal Diary**](week2_file_io/diary_app.py) | Daily entries with timestamps and search | File append, timestamps |
 
 ---
 
-## 📊 My Learning Journey
+## 📊 Learning journey
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | Python Basics (variables, loops, functions, dicts) | ✅ Complete |
-| Week 2 | File I/O, Error Handling, List Comprehensions | ✅ Complete |
-| Week 3 | NumPy & Pandas | ✅ Complete |
-| Week 4 | Data Visualization (Matplotlib, Seaborn) | 🔄 In Progress |
-| Week 5-8 | SQL, Machine Learning, Portfolio Projects | 📅 Planned |
+| Week 1 | Python basics (variables, loops, functions, dictionaries) | ✅ Complete |
+| Week 2 | File I/O, error handling, list comprehensions | ✅ Complete |
+| Week 3 | NumPy and Pandas | ✅ Complete |
+| Week 4 | Data visualisation (Matplotlib, Seaborn) | 🔄 In progress |
+| Week 5 to 8 | SQL, machine learning, portfolio projects | 📅 Planned |
 
 ---
 
-## 🎯 My 2026 Goals
+## 🎯 Goals
 
 - ✅ Build 10+ portfolio projects
-- ✅ Master Pandas and NumPy
-- 🔄 Learn SQL and Machine Learning
-- 🔄 Complete my MSc in Data Analytics
-- 🔄 Land a sponsored data science role in Pharma, Finance, or Tech
-
-**Domain knowledge + technical skills = I can go anywhere.**
+- ✅ Get comfortable with Pandas and NumPy
+- 🔄 Learn SQL and machine learning
+- 🔄 Complete my MSc in Data Science
+- 🔄 Land a 2027 placement or early-career role in data science or analytics
 
 ---
 
-## 🌍 Sectors I'm Targeting
+## 🌍 Sectors I'm interested in
 
 | Sector | Why |
 |--------|-----|
-| 🏥 **Healthcare & Pharma** | My domain advantage |
-| 💰 **Banking & Finance** | Data-rich, high standards |
-| 📱 **Tech & Startups** | Fast-paced, innovative |
+| 🏥 **Healthcare and pharma** | It's the area I know best from the inside |
+| 💰 **Banking and finance** | Data-rich, with high standards for accuracy |
+| 📱 **Tech and startups** | Fast-paced, with plenty to learn |
 | 📊 **Consulting** | Client-focused problem solving |
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-dutta-4b4b1a215/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madss28)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurimadutta@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurimadutta2828@gmail.com)
 
 ---
 
-## ⭐ Quick Stats
+## ⭐ Quick stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madss28&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madss28&layout=compact&hide_border=true)
@@ -107,28 +109,19 @@ I'm a Biomedical Scientist with **2+ years of NHS frontline experience** who fel
 
 ---
 
-## 📈 What's Next?
+## 📈 What's next
 
-I'm currently building:
 - 📊 Healthcare dashboards with Matplotlib and Seaborn
 - 🗄️ SQL database projects
 - 🤖 Machine learning models with scikit-learn
-- 🏥 Complete end-to-end healthcare analytics projects
+- 🏥 More end-to-end healthcare analytics projects on public datasets
 
 ---
 
-## 🏆 GitHub Activity
+## 🏆 GitHub activity
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Madss28&theme=minimal)
 
 ---
 
-### *"From NHS frontline to data science — one line of code at a time."*
-
----
-
-*Last updated: July 2026*
-
----
-
-> ⭐ If you find this portfolio helpful, please give it a star on GitHub!
+*Last updated: October 2026*
